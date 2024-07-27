@@ -1,7 +1,7 @@
 # CS 2340 - Objects and Design (Fall 2021)
 I took CS 2340 @ Gatech in the Fall of 2021.
 
-Lectured by Dr. Aibek Musaev
+Lectured by Dr. Aibek Musaev.
 
 ## About
 [Official Course Listing](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202408&subj_code_in=CS&crse_numb_in=2340)
